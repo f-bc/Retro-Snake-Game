@@ -4,8 +4,7 @@ A classic Snake game built in C++ using [raylib](https://www.raylib.com/), featu
 
 Retro Snake is a modern take on the timeless arcade classic. The snake lives on a 25×25 grid, growing one segment longer every time it devours a piece of food. The challenge ramps up naturally — the longer your snake, the harder it becomes to avoid your own tail. One wrong turn and it's game over.
 
-![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus) ![raylib](https://img.shields.io/badge/raylib-5.x-orange) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
-
+![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus) ![raylib](https://img.shields.io/badge/raylib-5.x-orange) 
 ---
 
 ## 🎮 Gameplay
