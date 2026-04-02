@@ -70,9 +70,3 @@ The game is structured around three core classes:
 - **`Game`** — Orchestrates everything: it owns the snake and food, runs collision detection on every update tick, tracks the score and best score, and manages the running/stopped state.
 
 The main loop runs at 60 FPS, but snake movement is decoupled from the frame rate — the snake updates every 200 ms using a time-based trigger, giving it that characteristic step-by-step arcade feel.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
